@@ -1,0 +1,5 @@
+C:\myproj\syncer\bin\release\net8.0\publish\Syncer.exe
+C:\myproj\syncer\bin\release\net8.0\publish\Syncer.dll
+C:\myproj\syncer\bin\release\net8.0\publish\Syncer.deps.json
+C:\myproj\syncer\bin\release\net8.0\publish\Syncer.runtimeconfig.json
+C:\myproj\syncer\bin\release\net8.0\publish\Syncer.pdb

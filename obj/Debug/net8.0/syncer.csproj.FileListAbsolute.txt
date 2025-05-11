@@ -1,0 +1,14 @@
+C:\myproj\syncer\bin\Debug\net8.0\syncer.exe
+C:\myproj\syncer\bin\Debug\net8.0\syncer.deps.json
+C:\myproj\syncer\bin\Debug\net8.0\syncer.runtimeconfig.json
+C:\myproj\syncer\bin\Debug\net8.0\syncer.dll
+C:\myproj\syncer\bin\Debug\net8.0\syncer.pdb
+C:\myproj\syncer\obj\Debug\net8.0\syncer.GeneratedMSBuildEditorConfig.editorconfig
+C:\myproj\syncer\obj\Debug\net8.0\syncer.AssemblyInfoInputs.cache
+C:\myproj\syncer\obj\Debug\net8.0\syncer.AssemblyInfo.cs
+C:\myproj\syncer\obj\Debug\net8.0\syncer.csproj.CoreCompileInputs.cache
+C:\myproj\syncer\obj\Debug\net8.0\syncer.dll
+C:\myproj\syncer\obj\Debug\net8.0\refint\syncer.dll
+C:\myproj\syncer\obj\Debug\net8.0\syncer.pdb
+C:\myproj\syncer\obj\Debug\net8.0\syncer.genruntimeconfig.cache
+C:\myproj\syncer\obj\Debug\net8.0\ref\syncer.dll

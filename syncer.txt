@@ -1,0 +1,8 @@
+robocopy /S /E /MT:8 "C:\Users\Spare104\Desktop\Softwares" "D:\winbackups\Softwares"
+
+robocopy /S /E /MT:8 "D:\MUSIC\Car" "C:\Users\Spare104\Desktop\syncer"
+robocopy /S /E /MT:8 "C:\Users\Spare104\Desktop\syncer" "D:\MUSIC\Car"
+
+robocopy /S /E /MT:8 "C:\Users\Spare104\Desktop\syncer\Documents" "D:\Documents"
+
+robocopy /S /E /MT:8 D:\MUSIC\Car \\142.250.196.14\drive\folders\1nt4eue60Nkyn9nW9yUqb1Z6vRboK44Ia?usp=drive_link
